@@ -37,9 +37,9 @@ npm start
 
 # Step 1
 
-We will start with a simple box on a red background
+We will start with a simple box with red background
 
-- First of all you have to put a background color for you entire page.
+- First of all you have to put a background color for your entire page.
 
 - Now create a form with a height of 700px and a width of 500px with a white background color.
 
@@ -47,29 +47,29 @@ We will start with a simple box on a red background
 
 # Step 2
 
-Now we will add two input and one button
+Now we will add two inputs and one button
 
-- One with a email placeholder
+- One with an email placeholder
 
 - Another one with a password placeholder and the password priority.
 
 - A submit button
 
-- You can center it too by using flex priority.
+- You can also center it by using flex priority
 
 # Step 3
 
-Let add effect to some component by adding
+Let's add effect to some component by adding
 
 - a focus effect on the input
 
 - a hover effect on the button
 
-it will look better if you add a little transition effect to it.
+It will look better if you add a little transition effect to it.
 
 # Step 4
 
-Now let see how to add animation
+Now let's see how to add animation
 
 - Try to add a bounce animation to a component
 
@@ -77,7 +77,7 @@ Now let see how to add animation
 
 Now make it prettier by:
 
-Adding color, there is two way to add color:
+Adding color, there are two ways to add color:
 
 - First one add a custom color in your tailwind.config.js file
 
@@ -87,4 +87,4 @@ Rounding the form, custom the input and button
 
 # Conclusion
 
-Congrats! Now you know the basics of Tailwind.
+Congrats! You know now the basics of Tailwind.
